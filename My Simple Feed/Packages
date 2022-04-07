@@ -1,0 +1,17 @@
+﻿Architecture: windows_x64
+Built-Using: nipkg
+CompatibilityVersion: 210800
+Description: mycompany-myproduct
+DisplayName: My Simple Package
+Filename: mycompany-mysimplepackage_1.0.0.0_windows_x64.nipkg
+MD5sum: 915274d68f0a5dba985f25cdd25c9664
+Maintainer: MyCompany <email@mycompany.com>
+Package: mycompany-mysimplepackage
+Plugin: file
+Section: Application Software
+Size: 638
+StoreProduct: no
+UserVisible: yes
+Version: 1.0.0.0
+VisibleForRuntimeDeployment: no
+
